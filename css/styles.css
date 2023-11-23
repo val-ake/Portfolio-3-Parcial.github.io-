@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&display=swap');
+
+body{
+    font-family: 'Manrope', sans-serif;
+  }
+.Name{
+  display: flex;
+}
+
+.Name h6{
+color: blueviolet;
+margin: 30px 71px;
+}
+  
+.text {
+    list-style: none;
+    padding-top: 26.5px;
+    display: flex;
+    text-decoration: none;
+}
+.text a{
+    padding: 10px 20px 30px 10px;
+    color:black;
+  }
+   
+  
+
