@@ -3,32 +3,32 @@
 body{
   font-family: 'Manrope', sans-serif;
   background-color: #eeebe5;
-  }
-  
-  .container_hader{
-    display: flex;
-    padding-top: 17px;
-    padding-left: 68px;
-  }
-  .Cannon_no{
-    color: blueviolet;
-    text-decoration: none;
-    font-size: 17px;
-    padding-top: 9px;
-  }
- .prin a {
-    background-color: #f0f0f0;
-    padding: 12px 23px 10px 20px;
-    border-radius: 4px;
-    font-style: normal;
- }
- .taak a{
+}
+.container_hader{
+  display: flex;
+  padding-top: 17px;
+  padding-left: 68px;
+}
+.Cannon_no{
+  color: blueviolet;
+  text-decoration: none;
+  font-size: 17px;
+  padding-top: 9px;
+}
+.prin a {
+  background-color: #f0f0f0;
+  padding: 12px 23px 10px 20px;
+  border-radius: 4px;
+  font-style: normal;
+}
+.taak a{
   padding: 0px 2px 0px 14px;
   font-style: normal;
  }
+ 
+ 
 .menu{
-  padding-left: 568px;
-  
+  padding-left: 568px; 
 }
 .firu{
   margin-left: 22px;
@@ -40,10 +40,8 @@ body{
   color: #eeebe5;
   border: none;
   border-radius: 8px;
-  padding: 12px 16px 8px 18px
+  padding: 12px 16px 8px 16px;
 }
-
-
 .firu img{
   padding-right: 2px;
   margin-bottom: 5px;
@@ -57,11 +55,110 @@ body{
   padding-top: 26.5px;
   padding: 10px 20px;
   padding: 3px 1px;
- 
+}  
+nav a{
+  color: black;
+  font-size: 12px;
+  text-decoration: none;
 }
-  
-  nav a{
-    color: black;
-    font-size: 12px;
-    text-decoration: none;
-  }
+.stckers {
+  padding-left: 1px;
+  padding-top: 106px;
+} 
+.stckers a {
+  color: #4D4D4D;
+  background: #eeebe5;
+  font-size: 19px;
+  text-decoration: none;
+  background-color: #F5F3F0;
+  padding: 8px 10px 10px 10px;
+  border-radius: 7px;
+}
+
+#header h1 {
+  padding-top: 24px;
+  line-height: 1.5;
+  padding-left: 9px;
+}
+.hero_title {
+  font-size: 43px;
+}
+.hero_text  {
+  line-height: 22.5px;
+  font-size: 13.5px;
+  padding-left: 9px;
+  letter-spacing: 0.2px;
+}
+.botones{
+  padding-top: 10px;
+  padding-left: 8px;
+}
+.button_llamar{
+  background-color: #5700FF;
+  color: #eeebe5;
+  border: none;
+  border-radius: 8px;
+  padding:13px 15px 8px 21px;
+  font-size: 13px;
+}
+.button_contestar{
+  font-size: 12px;
+  color: #1A1A1A;
+  border: none;
+  background-color: #eeebe5;
+  padding-left: 15px;
+  letter-spacing: 0.3px;
+  padding-top: 13px;
+}
+.button_contestar svg{
+  width: 13px;
+  padding-left: 3px;
+}
+
+.hombre-imagen{
+  transform: translate(761px,-615px)
+}
+
+.contenedor_hero{
+  display: flex;
+  background-color: #F7F6F3;
+  margin-top: 52px;
+  border-radius: 16px;
+  margin-left: 8px;
+}
+
+.contenedor_hero span {
+  color: #5700FF;
+}
+.contenedor_hero h1{
+  color: #333333;
+}
+.contenedor_hero p {
+  color: #4D4D4D;
+}
+.columna_1 h1 {
+  margin-left: 18px;
+  font-size: 33px;
+  margin-bottom: 10px;
+}
+
+.columna_1 p {
+  font-size: 12px;
+  transform: translate(28px,-9px);
+}
+.columna_2 h1 {
+  margin-left: 113px;
+  font-size: 34px;
+}
+.columna_2 p {
+  font-size: 12px ;
+  transform: translate(122px,-8px);
+}
+.columna_3 h1 {
+  margin-left: 137px;
+  font-size: 34px;
+}
+.columna_3 p{
+  font-size: 12px ;
+  transform: translate(147px,-8px);
+}
