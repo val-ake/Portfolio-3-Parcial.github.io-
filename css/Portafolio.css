@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&display=swap');
+
+body{
+  font-family: 'Manrope', sans-serif;
+  background-color: #eeebe5;
+  }
+  
+  .container_hader{
+    display: flex;
+    padding-top: 17px;
+    padding-left: 68px;
+  }
+  .Cannon_no{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 17px;
+    padding-top: 9px;
+  }
+ .prin a {
+    background-color: #f0f0f0;
+    padding: 12px 23px 10px 20px;
+    border-radius: 4px;
+    font-style: normal;
+ }
+ .taak a{
+  padding: 0px 2px 0px 14px;
+  font-style: normal;
+ }
+.menu{
+  padding-left: 568px;
+  
+}
+.firu{
+  margin-left: 22px;
+  margin: 21px 25px;
+}
+.firu button{
+  font-size: smaller;
+  background-color: #5700FF;
+  color: #eeebe5;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 16px 8px 18px
+}
+
+
+.firu img{
+  padding-right: 2px;
+  margin-bottom: 5px;
+}
+.menu ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  gap: 25px;
+  float: right;
+  padding-top: 26.5px;
+  padding: 10px 20px;
+  padding: 3px 1px;
+ 
+}
+  
+  nav a{
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+  }
+
+.col-md-12#introduction{
+    height: 330px;
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.col-md-12#introduction img#title{
+    width: 45px;
+    margin-top: 55px;
+}
+
+.col-md-12#introduction h2{
+    margin-top: 33px;
+    font-weight: 600;
+}
+
+.col-md-12#introduction p{
+    font-size: 14px;
+    color: #4D4D4D;
+}
+
+.horizontal-row{
+    display: flex;
+    margin-top: 30px;
+}
+
+.col-md-2{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #e1dbd1;
+    width: 214px;
+    margin-right: 15px;
+    height: 40px;
+
+}
+
+.col-md-2 img{
+    width: 23px;
+}
+
+.col-md-2 img, p{
+    margin-top: 5px;
+}
+
+.col-md-2#hackyspacing{
+    margin-left: 230px;
+}
