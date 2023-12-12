@@ -147,3 +147,80 @@ nav a{
     border-radius: 5px;
     width: 200px;
 }
+#Contact_Info{
+    display: flex;
+    padding-top: 41px;
+    padding-left: 72px;
+}
+#cuadros{
+    display: flex;
+    margin: 11px 0px;
+    background-color: #F5F3F0;
+    border-radius: 4px;
+    width: 381px;
+    height: 78px;
+}
+.tres p{
+    font-size: 12px;
+    color: #4D4D4D;
+    padding-top: 21px;
+    padding-left: 22px;
+    margin-bottom: 0rem;
+    margin-bottom: 0px;
+}
+.tres h6{
+    font-size: 14px;
+    color: #333333;
+    padding-left: 19px;
+    padding-top: 3px;
+    margin-top: 0;
+}
+.you img{
+    margin: 20px 0px 10px 134px;
+    max-width: 37px;
+}
+.give img{
+    margin: 21px 0px 10px 206px;
+    max-width: 37px;
+}
+.location img{
+    margin: 21px 0px 10px 151px;
+    max-width: 37px;
+}
+.cont p {
+    font-size: 10px ;
+    color: #4D4D4D;
+}
+.cont h4{
+    font-size: 15px;
+    color: #333333;
+}
+.Contact p{
+font-size: 14px;
+}
+.Contact p b{
+font-size:  15px ;
+}
+
+
+.img_social h4{
+     font-size: 15px ;
+     margin-top: 30px;
+ }
+
+.social{
+    background-color: #F7F6F3;
+    max-width: 169px;
+    border-radius: 7px;
+    gap: 18px;
+    margin-left: 2px;
+    margin-top: 17px;
+    padding: 13px 19px 13px 12px;
+}
+.social {
+    display: flex;
+}
+
+.social img{
+    max-width: 35px;
+}
