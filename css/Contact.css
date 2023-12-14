@@ -247,3 +247,100 @@ font-size:  15px ;
 .social img{
     max-width: 35px;
 }
+#Contact_Form{
+    display: flex;
+    padding: 12px 0px 0px 17px;
+}
+
+#Contact_Form img{
+    height: 21px;
+    margin-top: 12px;
+}
+#Contact_Form img #mo{
+    margin-left: 260px;
+}
+#Contact_Form img #mov{
+    margin-left: 180px;
+}
+#Contact_Form img #movv{
+    margin-left: 90px;
+}
+.cont{
+    margin-left: 23px;
+    padding: 23px;
+    background-color: #F7F6F3;
+    border-radius: 6px;
+    padding-bottom: 43px;
+}
+.rectangulo_1, .rectangulo_2 div{
+    display: flex;
+}
+.rectangulo_2{
+    background-color: #F5F3F0;
+    padding: 0px 0px 13px 23px;
+    border: 1px solid #EBE7E0;
+    border-radius: 2%;
+    margin-left: 19px;
+    margin-top: 23px;
+    margin-right: 23px;
+}
+
+.rectangulo_1 p{
+    font-size: 14px;
+}
+.rectangulo_1 div p{
+    background-color: #F5F3F0;
+    padding: 19px 0px 5px 0px;
+    border-radius: 3%;
+    border: 1px solid #EBE7E0;
+    padding-left: 22px;
+    padding-top: 17px;
+    padding-right: 195px;
+    margin-top: 20px;
+    margin-left: 17px;
+    margin-right: 18px;
+}
+#move{
+    margin-left: 48px;
+}
+.rectangulo_2 h4{
+    font-size: 15px;
+    padding-top: 26px;
+    padding-left: 2px;
+}
+.segunda img {
+    margin-left: 186px;
+}
+.parte_1 img  .parte_2 img{
+    margin-left: 0px;
+}
+.tercera img {
+    margin-left: 145px ;
+}
+.rectangulo_3{
+    background-color: #F5F3F0;
+    padding: 0px 0px 83px 3px;
+    border: 1px solid #EBE7E0;
+    border-radius: 2%;
+    margin-left: 19px;
+    margin-top: 26px;
+    margin-right: 23px;
+    padding-top: 20px;
+}
+.boton{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+    padding-right: 10px;
+
+}
+.boton button{
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-left: 6px;
+    margin-top: 7px;
+    background-color: #5700FF;
+    padding: 13px 30px 12px 30px;
+}
+
