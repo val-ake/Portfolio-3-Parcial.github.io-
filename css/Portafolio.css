@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&display=swap');
 
 body{
-  background-color: lightgray;
+  background-color: #fff;
 }
 .bttns, .container{
   display: flex;
@@ -125,7 +125,7 @@ margin-bottom: 1px;
   margin-top: 10px;
 }
 .ss2 div{
-  background-color: crimson;
+  background-color: #F7F6F3;
   padding: 10px 10px 13px 15px;
   margin: 15px;
   border-radius: 3%;
