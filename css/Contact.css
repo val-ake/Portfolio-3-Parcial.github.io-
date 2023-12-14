@@ -3,11 +3,12 @@
 body{
     font-family: 'Manrope', sans-serif;
     background-color: #EEEBE5;
+    border: 1px;
 }
 .container_hader{
     display: flex;
     padding-top: 17px;
-    padding-left: 68px;
+    padding-left: 67px;
   }
   .Cannon_no{
     color: blueviolet;
@@ -22,6 +23,9 @@ body{
   padding: 12px 23px 10px 20px;
   border-radius: 4px;
   font-style: normal;
+}
+.firu img {
+    max-width: 20px ;
 }
 
 .taak a{
@@ -92,7 +96,7 @@ nav a{
 }
 
 #introduction p{
-    font-size: 15px;
+    font-size: 14px;
     color: #4D4D4D;
     margin-left: 4px;
     margin-top: 7px;
@@ -111,6 +115,7 @@ nav a{
     padding: 1px;
     max-width: 23px;
     margin-top: 8px;
+    margin-left: 7px;
 }
 
 .texto1{
@@ -130,20 +135,20 @@ nav a{
     color: #333333;
 }
 .uno{
-    border: 1px solid #4D4D4D;
+    border: 1px solid #EBE7E0;
     border-radius: 5px;
     padding: 0px 11px 0px 12px;
     width: 233px;
 }
 .dos{
 
-    border: 1px solid #4D4D4D;
+    border: 1px solid #EBE7E0;
     border-radius: 5px;
     width: 163px;
 }
 .ultimo{
 
-    border: 1px solid #4D4D4D;
+    border: 1px solid #EBE7E0;
     border-radius: 5px;
     width: 200px;
 }
@@ -188,8 +193,10 @@ nav a{
     max-width: 37px;
 }
 .cont p {
-    font-size: 10px ;
+    font-size: 14px ;
     color: #4D4D4D;
+    margin-left: 17px;
+    margin-top: 10px;
 }
 .cont h4{
     font-size: 15px;
@@ -208,6 +215,22 @@ font-size:  15px ;
      margin-top: 30px;
  }
 
+.social{
+    background-color: #F7F6F3;
+    max-width: 169px;
+    border-radius: 7px;
+    gap: 18px;
+    margin-left: 2px;
+    margin-top: 17px;
+    padding: 13px 19px 13px 12px;
+}
+.social {
+    display: flex;
+}
+
+.social img{
+    max-width: 35px;
+}
 .social{
     background-color: #F7F6F3;
     max-width: 169px;
