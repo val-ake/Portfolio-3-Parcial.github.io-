@@ -343,4 +343,147 @@ font-size:  15px ;
     background-color: #5700FF;
     padding: 13px 30px 12px 30px;
 }
+#faqs .title{
+    margin-top: 89px;
+    text-align: center;
+    margin-left: 0px;
+}
+.title h1{
+    font-size: 34px;
+    padding-top: 6px;
+    padding-left: 16px;
+}
+.control{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 69px;
+    margin-top: 50px;;
+}
+.FAQ_Item{
+    background-color: #F7F6F3;
+    width: 62%;
+    padding: 30px;
+    border-radius: 9px;
+}
 
+.item{
+    width: 678px;
+    background-color: #EEEBE5;
+    display: flex;
+    padding-left: 27px;
+    padding-top: 28px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+.item h3{
+    font-size: 16px;
+}
+.item p{
+    font-size: 14px;
+    margin-bottom: 42px;
+}
+.img_x{
+    padding:0px 18px 0px 16px
+}
+.img_x img{
+   max-width: 32px;
+}
+.textosh3{
+    margin: 0;
+}
+.textos p{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 29px;
+}
+
+.form0{
+    background-color: #EEEBE5;
+    display: flex;
+    margin-bottom: 20px;
+    width: 678px;
+    padding-top: 20px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+.form0 img {
+    margin-left: 103px;
+}
+.form1{
+    width: 678px;
+    background-color: #EEEBE5;
+    display: flex;
+    padding-left: 0px;
+    padding-top: 20px;
+    margin-bottom: 21px;
+    border-radius: 2px;
+    padding-bottom: 6px;
+}
+.form1 img{
+     margin-left: 256px;
+}
+.col-md-8 img {
+    max-width: 32px;
+}
+.contenedor_estrella{
+    background-color: #F7F6F3;
+    margin: 0 20px 162px 35px;
+    padding: 20px;
+    width: 364px;
+    height: 338px;
+    border-radius: 9px;
+}
+.contenedor_estrella h2{
+    font-size: 17px;
+    margin-top: 22px;
+    margin-left: 12px;
+}
+
+.contenedor_estrella p{
+    font-size: 14px;
+    margin-left: 14px;
+}
+.contenedor_estrella img{
+    max-width: 49px;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+.boton_final button{
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 6px;
+    background-color: #5700FF;
+    padding: 13px 20px 12px 20px;
+}
+.boton_final {
+    font-size: 12px ;
+}
+.form2{
+    width: 678px;
+    padding-bottom: 6px;
+    background-color: #EEEBE5;
+    display: flex;
+    padding-left: 0px;
+    padding-top: 22px;
+    margin-bottom: 20px;
+    border-radius: 2px
+}
+.form2 img {
+    margin-left: 198px
+}
+.form3{
+    width: 678px;
+    padding-bottom: 6px;
+    background-color: #EEEBE5;
+    display: flex;
+    padding-left: 0px;
+    padding-top: 22px;
+    margin-bottom: 25px;
+    border-radius: 2px
+}
+.form3 img{
+    margin-left: 114px;
+}
